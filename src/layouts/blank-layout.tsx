@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import * as React from 'react';
-
+ 
 export function BlankLayout(props): JSX.Element {
   const { children } = props;
 
